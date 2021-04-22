@@ -1,0 +1,13 @@
+1. What is Responsive Design?
+2. How to make website responsive
+3. Freelancing
+
+
+# Browser Tools
+# CSS Media Query
+# CSS Priority Rules
+# All Browser Support
+
+
+link: 
+https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488

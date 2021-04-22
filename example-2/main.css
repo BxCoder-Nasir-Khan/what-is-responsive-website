@@ -1,0 +1,23 @@
+#section{
+	border: 2px solid black;
+	padding: 10px;
+	box-sizing: border-box;
+	float: left;
+}
+
+#section #left{
+	border: 2px solid red;
+	width: 50%;
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+
+#section #right{
+	border: 2px solid blue;
+	width: 50%;
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;
+}

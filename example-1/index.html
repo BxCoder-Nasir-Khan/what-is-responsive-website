@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	
+	<title>Responsive Example - 1</title>
+
+
+	<style>
+
+		h1{
+         	color: green;
+        }
+
+		/* 
+		  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+		  ##Screen = B/w 481px to 767px
+		*/
+
+		@media (min-width: 481px) and (max-width: 767px) {
+		  
+		  h1{
+		  	color: blue;
+		  	text-align: right;
+		  }
+		  
+		}
+		
+		/* 
+		  ##Device = Most of the Smartphones Mobiles (Portrait)
+		  ##Screen = B/w 320px to 479px
+		*/
+
+		@media (min-width: 320px) and (max-width: 480px) {
+		  
+		  h1{
+		  	color: red;
+		  	text-align: center;
+		  }
+		  
+		}
+
+
+	</style>
+
+
+</head>
+<body>
+	
+
+	<h1>
+		this is h1 tag
+	</h1>
+
+</body>
+</html>
